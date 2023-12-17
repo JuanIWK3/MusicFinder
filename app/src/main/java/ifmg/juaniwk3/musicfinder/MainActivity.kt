@@ -105,7 +105,7 @@ fun MusicItem(music: Music) {
         colors = CardDefaults.cardColors(
             containerColor = MaterialTheme.colorScheme.onSecondary,
 
-        ),
+            ),
         border = BorderStroke(1.dp, Color(75,0,130)),
     ) {
         Column(
